@@ -1,0 +1,717 @@
+﻿================================================================
+PRG 200 - PROGRAMMING IN THE CLOUD
+AI CHATBOT KNOWLEDGE BASE
+Westcliff University | Professor Pandey
+Kings College, Room 501 | Sundays & Wednesdays at 7:00 AM
+================================================================
+
+
+================================================================
+SECTION 1: COURSE OVERVIEW
+================================================================
+
+
+COURSE_INFO:
+- Course Name: PRG 200 Programming in the Cloud
+- Units: 3
+- Duration: 8 Weeks
+- Instructor: Professor Pandey
+- Class Location: Kings College, Room 501
+- Class Days and Time: Sundays and Wednesdays at 7:00 AM
+- Required Textbook: W3Schools Python Tutorial (https://www.w3schools.com/python/default.asp)
+- Instructional Method: Online / On-Campus
+
+
+COURSE_DESCRIPTION:
+This course provides programming techniques for Cloud programming associated with Python, as well as the skills and knowledge for building applications using any of the hundreds of thousands of task-specific Python libraries. Students gain basic knowledge of Python and understand the Python environment and code introspection. Additionally, students enhance their knowledge of flow control, function protocols, exception handling, and the application of Object-Oriented features such as classes and inheritance.
+
+
+================================================================
+SECTION 2: GRADING AND ASSESSMENTS
+================================================================
+
+
+GRADE_BREAKDOWN:
+- Engagement and Professionalism (including live class activities): 160 points | 16%
+- Week 1 Discussion: 75 points | 7.5%
+- Week 2 Assignment: 100 points | 10%
+- Week 3 Assignment: 100 points | 10%
+- Week 4 Assignment: 100 points | 10%
+- Week 5 Discussion: 75 points | 20%
+- Week 6 Assignment: 100 points | 10%
+- Week 7 Assessment: 160 points | 16%
+- Week 8 Assessment Presentation: 130 points | 13%
+- TOTAL: 1000 Points | 100%
+
+
+================================================================
+SECTION 3: DEADLINES AND SUBMISSION POLICIES
+================================================================
+
+
+DEADLINES:
+- All assignments are due by midnight (11:59 PM) every Sunday.
+- Discussion primary responses are due by Wednesday at 11:59 PM Pacific Time.
+- Peer responses for discussions are due by Saturday at 11:59 PM Pacific Time.
+- All graded submissions are due by Sunday at 11:59 PM Pacific Time.
+
+
+ASSIGNMENT_REQUIREMENTS:
+- Each assignment deliverable is specifically defined in the assignment instructions.
+- Required page length does not include the cover or references pages.
+- All written work must follow APA 7th edition formatting.
+- APA 7 requirements: cover page, page numbers, headings, citations, 1-inch margins, paragraph indentations, left alignment, double spacing throughout, and references with hanging indents.
+
+
+DISCUSSION_REQUIREMENTS:
+- Primary response: minimum 200 words, due Wednesday 11:59 PM Pacific Time.
+- Peer responses: minimum 2 responses of at least 50 words each, due Saturday 11:59 PM Pacific Time.
+- Outside sources must be cited using APA 7th edition.
+
+
+PARTICIPATION_REQUIREMENTS:
+- Students must attend each live class session in person or virtually.
+- Participation includes actively engaging, answering or asking questions, commenting, and interacting in group activities.
+- Students who cannot attend must follow the Virtual Class Session (VCS) submission requirements.
+
+
+================================================================
+SECTION 4: COURSE LEARNING OUTCOMES (CLOs)
+================================================================
+
+
+CLO_1: Demonstrate basic Python programming techniques, code introspection, and an understanding of their application in cloud computing.
+CLO_2: Demonstrate an understanding of variables, data types, and syntax in Python programming.
+CLO_3: Demonstrate how to use loops and flow control in Python programming.
+CLO_4: Demonstrate how to use functions in Python programming.
+CLO_5: Discuss how exception handling and error control are managed in Python programming.
+CLO_6: Demonstrate the use of Object-Oriented Programming (OOP) in Python.
+
+
+================================================================
+SECTION 5: WEEKLY TOPICS AND ASSIGNMENTS
+================================================================
+
+
+---
+WEEK 1: Introduction to Python Programming and Cloud Computing
+---
+TOPICS:
+- Introduction to Python programming
+- Introduction to Cloud Computing
+- Python environment setup
+- Installing Python
+- W3Schools: Python Intro and Get Started sections
+
+
+LIVE_CLASS_ACTIVITY:
+Review the course, syllabus, and course expectations with the instructor. The instructor introduces students to Python programming and Cloud computing. Work through the Intro and Get Started sections of the W3Schools Python course. The instructor ensures all students can download and install Python and work through the Try it Yourself sections.
+
+
+DISCUSSION_TOPIC (Week 1):
+Review the article Python Forensics: Implementation of Cloud. Discuss how Python programming is used in cloud computing and why this is important to understand.
+
+
+READINGS:
+- W3Schools: Python (https://www.w3schools.com/python/default.asp)
+- Python Forensics: Implementation of Cloud
+
+
+DEADLINE: Discussion primary response due Wednesday 11:59 PM. Peer responses due Saturday 11:59 PM.
+
+
+---
+WEEK 2: Python Environment and Code Introspection
+---
+TOPICS:
+- Python syntax
+- Variables
+- Data types
+- Numbers
+- Code introspection
+- W3Schools: Syntax through Numbers
+
+
+LIVE_CLASS_ACTIVITY:
+Work through the Syntax and Variables sections of the W3Schools Python tutorial. Discuss what introspection is and how it can be demonstrated.
+
+
+ASSIGNMENT (Week 2):
+Work through the Variables, Data Types, and Numbers tutorial sections of W3Schools. Take at least one screenshot of the completed Try it Yourself sections from each tutorial section. Combine screenshots into a single document and submit.
+
+
+READINGS:
+- W3Schools: Python Syntax through Numbers
+- Python Introspection article
+
+
+DEADLINE: Assignment due Sunday at midnight.
+
+
+---
+WEEK 3: Flow Control
+---
+TOPICS:
+- Conditionals (if, elif, else)
+- While loops
+- For loops
+- Casting
+- Strings
+- Booleans
+- Operators
+- W3Schools: Casting through Operators, If-Else, While Loops, For Loops
+
+
+LIVE_CLASS_ACTIVITY:
+Work through the If-Else, While Loops, and For Loops sections of the W3Schools Python tutorial. Discuss the use of flow control in Python and its benefits.
+
+
+ASSIGNMENT (Week 3):
+Work through the Casting, Strings, Boolean, and Operators tutorial sections of W3Schools. Take at least one screenshot of the completed Try it Yourself sections from each section. Combine into a single document and submit.
+
+
+READINGS:
+- W3Schools: Python Casting through Operators, If-Else, While Loops, For Loops
+- Flow Control Statements in Python article
+
+
+DEADLINE: Assignment due Sunday at midnight.
+
+
+WEEK 3 ASSIGNMENT QUESTIONS:
+
+
+Question 1 - ATM Withdrawal Validator (Conditionals):
+A Nepali bank ATM allows withdrawals under these rules:
+- Withdrawal amount must be a multiple of NPR 500
+- Must not exceed account balance
+- Daily withdrawal limit is NPR 50,000
+Inputs: balance, daily_withdrawn, amount
+Print messages: "Withdrawal successful.", "Invalid amount. Must be a multiple of NPR 500.", "Insufficient balance.", "Daily withdrawal limit reached.", "Your current balance after withdrawal: NPR XXXX"
+
+
+Question 2 - Online Store Discount System (Conditionals):
+Discount table:
+- Less than NPR 1,000: No discount
+- NPR 1,000 - NPR 4,999: 5%
+- NPR 5,000 - NPR 14,999: 10%
+- NPR 15,000 and above: 20%
+Loyalty members get an extra 5% on the discounted amount.
+Task: Calculate final payable amount after all discounts.
+
+
+Question 3 - Inventory Restock Alert (Loop + Conditional):
+Loop through inventory list, print restock alerts for items below threshold, display total items needing restock.
+inventory = [{"item": "Rice", "stock": 5, "threshold": 10}, {"item": "Eggs", "stock": 24, "threshold": 12}, {"item": "Milk", "stock": 3, "threshold": 6}, {"item": "Bread", "stock": 8, "threshold": 5}, {"item": "Chicken", "stock": 0, "threshold": 4}, {"item": "Cooking Oil", "stock": 2, "threshold": 3}]
+
+
+Question 4 - Password Strength Checker (Loop + Conditional):
+Password must be:
+- At least 8 characters long
+- Contains at least one uppercase letter
+- Contains at least one lowercase letter
+- Contains at least one digit
+- Contains at least one special character from !@#$%^&*
+Test passwords: ["hello", "Hello123", "H3ll0@World", "12345678", "MyP@ss!"]
+Print whether each password is strong or weak, and list missing criteria.
+
+
+Question 5 - Taxi Fare Calculator (Conditionals + Loop):
+Fare rules:
+- Base fare (first 2 km): NPR 150
+- Next 8 km (km 3-10): NPR 35 per km
+- Beyond 10 km: NPR 28 per km
+- Night surcharge (10 PM - 5 AM): Additional 10%
+trips = [{"distance": 1.5, "hour": 14}, {"distance": 5.0, "hour": 22}, {"distance": 12.0, "hour": 3}, {"distance": 8.5, "hour": 10}, {"distance": 2.0, "hour": 23}]
+
+
+---
+WEEK 4: Function Protocols
+---
+TOPICS:
+- Functions
+- Defining and calling functions
+- Parameters and arguments
+- Return values
+- Lists
+- Tuples
+- W3Schools: Functions, Lists, Tuples
+
+
+LIVE_CLASS_ACTIVITY:
+Work through the Functions section of the W3Schools Python tutorial. Discuss the use of functions in Python and their benefits.
+
+
+ASSIGNMENT (Week 4):
+Work through the Lists and Tuples tutorial sections of W3Schools. Take at least one screenshot of the completed Try it Yourself sections from each section. Combine into a single document and submit.
+
+
+READINGS:
+- W3Schools: Python Functions, Lists, and Tuples
+
+
+DEADLINE: Assignment due Sunday at midnight.
+
+
+WEEK 4 ASSIGNMENT QUESTIONS:
+
+
+Question 1 - Small Shop Billing and Inventory System:
+inventory = {"rice": {"price": 120, "stock": 20}, "milk": {"price": 90, "stock": 10}, "bread": {"price": 60, "stock": 15}, "eggs": {"price": 15, "stock": 30}}
+cart = {"rice": 2, "milk": 3, "eggs": 12}
+Write function: def process_order(inventory, cart)
+The function should: check stock, calculate item total (price x quantity), add to bill, subtract from stock, print final bill and grand total, print updated inventory.
+Expected output style:
+---- Bill ----
+rice x2 = NPR 240
+milk x3 = NPR 270
+eggs x12 = NPR 180
+Grand Total: NPR 690
+--------------
+Updated stock: rice=18, milk=7, eggs=18
+
+
+Question 2 - Water Level Alert System (Koshi River):
+sensors = [("Chatara", 2.8), ("Tribeni Ghat", 5.4), ("Koshi Barrage", 4.1), ("Sunsari Bridge", 1.9), ("Saptakoshi Camp", 6.0)]
+Write function: def check_water_level(location, level_metres)
+- Below 3m: return "Safe"
+- Between 3m and 5m: return "Warning — Alert nearby villages"
+- Above 5m: return "DANGER — Evacuate immediately!"
+
+
+Question 3 - Date Converter for Nepal Bank System (BS to AD):
+Write function: def convert_date(date_str, from_cal, to_cal)
+- AD to BS: add 56 to year
+- BS to AD: subtract 56 from year
+- Same calendar: return date unchanged
+- Format: YYYY-MM-DD
+Test with customers list including Ramesh Thapa, Sunita Karki, Bikash Rai, Anjali Gurung.
+
+
+Question 4 - Word Frequency Counter:
+Write function: def word_frequency(text)
+- Split text into words
+- Convert to lowercase
+- Count occurrences using a dictionary
+- Return top 3 most frequent words
+Ignore punctuation marks.
+Expected output: top 3 words with counts.
+
+
+Question 5 - Simple ATM Simulator:
+accounts = {"A001": {"name": "Ramesh Thapa", "balance": 15000, "pin": "1234"}, "A002": {"name": "Sunita Karki", "balance": 8500, "pin": "5678"}, "A003": {"name": "Bikash Rai", "balance": 22000, "pin": "9012"}}
+Write function: def atm(account_id, pin, action, amount=0)
+Actions: balance, deposit, withdraw
+Handle: account not found, incorrect PIN, insufficient funds.
+
+
+---
+WEEK 5: Exception Handling
+---
+TOPICS:
+- Exception handling
+- Try and except blocks
+- Errors and exceptions in Python
+- Sets
+- Dictionaries
+- Arrays
+- W3Schools: Sets, Dictionaries, Arrays
+
+
+LIVE_CLASS_ACTIVITY:
+Discuss how Python handles errors and exceptions. Refer to Python: Errors and Exceptions resource.
+
+
+DISCUSSION (Week 5):
+Work through the Sets, Dictionaries, and Arrays tutorial sections of W3Schools. Take at least one screenshot of each completed Try it Yourself section. Combine into a single document and submit.
+
+
+READINGS:
+- W3Schools: Python Sets, Dictionaries, and Arrays
+- Python: Errors and Exceptions article
+
+
+DEADLINE: Discussion primary response due Wednesday 11:59 PM. Peer responses due Saturday 11:59 PM.
+
+
+WEEK 5 ASSIGNMENT QUESTIONS:
+
+
+Question 1 - Bank Account Manager (Classes and Objects):
+Create class: class BankAccount
+- __init__: store name, account_number, balance (default 0)
+- deposit(amount): adds to balance
+- withdraw(amount): deducts; print "Insufficient funds" if too low
+- get_balance(): prints name and current balance
+Test accounts: Ramesh Thapa A001 5000, Sunita Karki A002 0, Bikash Rai A003 12000
+Operations: deposit 3000 into A002, withdraw 15000 from A003 (should fail), withdraw 2000 from A001, print final balances.
+
+
+Question 2 - Student Report Card:
+Create class: class Student
+- __init__: store name and list of marks
+- average(): returns average mark
+- grade(): A (80+), B (65-79), C (50-64), D (40-49), F (below 40)
+- display(): prints name, average, grade, Pass/Fail (pass = average 40+)
+Test: Aarav [78,85,60,90,72], Sita [45,50,38,60,55], Bishal [30,25,40,35,28], Priya [90,88,95,92,87]
+
+
+Question 3 - Food Delivery App (Inheritance):
+Parent class: class DeliveryPartner(__init__ name, partner_id, deliveries; total_earning to override; display)
+Child class BikeRider: total_earning = NPR 80 per delivery + NPR 5 per km
+Child class Walker: total_earning = NPR 60 per delivery + NPR 50 per rainy delivery
+Child class CarDriver: total_earning = NPR 120 per delivery minus fuel cost
+Test: BikeRider Santosh Rai B-01 15 deliveries 42km, Walker Kabita Maharjan W-01 18 deliveries 5 rainy, CarDriver Roshan KC C-01 20 deliveries NPR 850 fuel
+Print partner with highest earning.
+
+
+Question 4 - Bus Ticket Booking (Sajha Yatayat):
+Create class: class Bus
+- __init__: route, total_seats, empty booked list
+- book_seat(seat_number, passenger_name): book if available, else print "Seat already booked"
+- available_seats(): returns remaining seat count
+- passenger_list(): prints all booked seats and names
+Bus route: Kathmandu - Pokhara, 10 seats
+Test bookings: seat 3 Ramila Shrestha, seat 7 Deepak Gurung, seat 3 Anita Rai (duplicate), seat 1 Prakash Magar, seat 7 Suman Tamang (duplicate)
+
+
+---
+WEEK 6: Object-Oriented Programming (OOP) in Python
+---
+TOPICS:
+- Classes and Objects
+- Inheritance
+- Iterators
+- Scope
+- Modules
+- W3Schools: Classes/Objects, Inheritance, Iterators
+
+
+LIVE_CLASS_ACTIVITY:
+Review the Classes/Objects section of W3Schools Python tutorial. Discuss how Python can be used for OOP. Discuss how real-world Python programs apply to Cloud computing. Begin looking forward to the Week 7 Assessment and Week 8 Presentation.
+
+
+ASSIGNMENT (Week 6):
+Write a program that demonstrates the use of Object-Oriented Programming features such as classes and inheritance in Python. Submit the programming code.
+
+
+READINGS:
+- W3Schools: Python Classes/Objects, Inheritance, and Iterators
+- Object-Oriented Programming (OOP) in Python 3 article
+
+
+DEADLINE: Assignment due Sunday at midnight.
+
+
+WEEK 6 ASSIGNMENT QUESTIONS:
+
+
+Question 1 - Temperature Logger (math module):
+temperatures = [18.4, 22.1, 15.7, 29.3, 11.8, 25.6, 19.2]
+Write three functions:
+- def get_average(temps): returns mean temperature
+- def get_deviation(temps): returns standard deviation using math.sqrt
+- def get_summary(temps): prints min, max, average, and deviation
+Use global variable: station_name = "Kathmandu Weather Station"
+Inside get_deviation(), use a local variable for the mean. Show that accessing it outside causes NameError.
+
+
+Question 2 - Bill Splitter (random module):
+friends = ["Ramesh", "Sunita", "Bikash", "Anjali", "Dipak"]
+total_bill = 3750
+Functions:
+- def split_bill(friends, total): returns equal share per person
+- def pick_lucky(friends): uses random.choice to pick one person
+- def final_summary(friends, total): prints each person's share and the lucky person who pays extra NPR 50
+Use random.seed(42) for consistent results.
+
+
+Question 3 - Exam Scheduler (datetime module):
+start_date = "2025-05-01"
+exams = [("Python Programming", 0), ("Data Structures", 3), ("Database Systems", 6), ("Computer Networks", 10), ("Mathematics", 14)]
+Functions:
+- def parse_date(date_str): converts string to datetime object
+- def get_exam_date(start_str, days): returns start + days as YYYY-MM-DD
+- def print_schedule(start_str, exams): prints each subject and exam date
+Use global variable: college_name = "Bhaktapur Multiple Campus"
+Use datetime.datetime and datetime.timedelta.
+
+
+Question 4 - Shopping Discount (own module):
+Create discount.py with:
+- TAX_RATE = 0.13 (13% VAT)
+- def apply_discount(price, percent): returns price after discount
+- def apply_tax(price): returns price after adding TAX_RATE
+- def final_price(price, discount_pct): applies discount then tax
+In main file: from discount import final_price, TAX_RATE
+products = [("Laptop", 85000, 10), ("Headphones", 4500, 15), ("Phone Case", 800, 5), ("USB Cable", 600, 0)]
+Loop through products, call final_price(), print name, original price, and final price.
+
+
+---
+WEEK 7: Scope and Modules + Final Assessment
+---
+TOPICS:
+- Scope (local and global variables)
+- Modules (importing, creating custom modules)
+- Applying scope in functions
+- W3Schools: Scope and Modules
+
+
+LIVE_CLASS_ACTIVITY:
+Work on the Scope and Modules sections of the W3Schools Python tutorial. Address how these apply in the use of Functions. Allow time to work on final assessment programs.
+
+
+ASSESSMENT (Week 7):
+Write a program that demonstrates the use of ALL concepts covered in the course learning objectives (CLOs 1-6). This includes: basic Python techniques, variables and data types, loops and flow control, functions, exception handling, and OOP (classes and inheritance).
+You will present your program and code during the Week 8 live class.
+
+
+READINGS:
+- W3Schools: Python Scope and Modules
+
+
+DEADLINE: Assessment due Sunday at midnight.
+
+
+---
+WEEK 8: Final Presentation
+---
+TOPICS:
+- Presenting and explaining code
+- Demonstrating all course learning objectives
+
+
+ASSESSMENT_PRESENTATION (Week 8):
+Present your Week 7 Assessment program. Discuss how your program demonstrates each of the 6 course learning objectives (CLOs 1-6).
+This is worth 130 points (13% of total grade).
+
+
+DEADLINE: Final presentation happens during the Week 8 live class at Kings College, Room 501.
+
+
+================================================================
+SECTION 6: KEY PYTHON CONCEPTS COVERED IN THIS COURSE
+================================================================
+
+
+PYTHON_BASICS:
+- What is Python: Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used in cloud computing, data science, AI, and web development.
+- Installing Python: Download from python.org. Verify installation by running "python --version" in terminal.
+- Python Syntax: Python uses indentation (spaces or tabs) to define blocks of code. No curly braces needed.
+- Comments: Use # for single-line comments. Use triple quotes for multi-line comments.
+- print() function: Used to display output. Example: print("Hello, World!")
+- input() function: Used to take user input. Example: name = input("Enter your name: ")
+
+
+VARIABLES_AND_DATA_TYPES:
+- Variables store data. No need to declare type. Example: x = 5, name = "Riwaj", is_active = True
+- int: whole numbers. Example: age = 21
+- float: decimal numbers. Example: price = 9.99
+- str: text strings. Example: name = "Nepal"
+- bool: True or False
+- Casting: converting between types. int("5") converts string to int. str(5) converts int to string. float("3.14") converts string to float.
+- type() function: returns the data type. Example: type(5) returns int.
+
+
+STRINGS:
+- Strings are sequences of characters enclosed in quotes.
+- String methods: .upper(), .lower(), .strip(), .replace(), .split(), .len()
+- String concatenation: "Hello" + " " + "World"
+- f-strings: f"My name is {name}" for formatted strings
+- String indexing: name[0] gives first character. name[-1] gives last character.
+- String slicing: name[0:3] gives characters from index 0 to 2.
+
+
+BOOLEANS:
+- Boolean values are True or False.
+- Comparison operators return booleans: ==, !=, >, <, >=, <=
+- Logical operators: and, or, not
+
+
+OPERATORS:
+- Arithmetic: + - * / // % **
+- Assignment: = += -= *= /=
+- Comparison: == != > < >= <=
+- Logical: and or not
+- Floor division //: returns the integer part. 10 // 3 = 3
+- Modulus %: returns the remainder. 10 % 3 = 1
+- Exponentiation **: 2**3 = 8
+
+
+FLOW_CONTROL:
+- if statement: executes code if condition is True
+- elif: checks another condition if the previous was False
+- else: executes code if all conditions are False
+- Syntax: if condition: / elif condition: / else:
+- While loop: repeats while condition is True. Use break to exit, continue to skip.
+- For loop: iterates over a sequence (list, range, string, etc.)
+- range(): generates a sequence. range(5) = 0,1,2,3,4. range(1,6) = 1,2,3,4,5.
+- break: exits the loop immediately
+- continue: skips the current iteration and goes to next
+- pass: does nothing, placeholder
+
+
+FUNCTIONS:
+- Functions are reusable blocks of code defined with def keyword.
+- Syntax: def function_name(parameters): / body / return value
+- Parameters: variables passed into the function
+- Return statement: sends a value back to the caller
+- Default parameters: def greet(name="Student"): gives default value if not provided
+- *args: accepts variable number of positional arguments
+- **kwargs: accepts variable number of keyword arguments
+- Local variables: defined inside a function, only accessible inside
+- Global variables: defined outside, accessible everywhere. Use global keyword to modify inside function.
+
+
+LISTS:
+- Lists are ordered, mutable, and allow duplicates. Defined with square brackets [].
+- Example: fruits = ["apple", "banana", "mango"]
+- Indexing: fruits[0] = "apple". Negative: fruits[-1] = "mango"
+- Methods: .append(), .remove(), .pop(), .sort(), .reverse(), .len(), .insert(), .clear()
+- List slicing: fruits[1:3] returns items at index 1 and 2
+- Looping through list: for item in fruits: print(item)
+- List comprehension: [x*2 for x in range(5)]
+
+
+TUPLES:
+- Tuples are ordered and immutable (cannot be changed after creation). Defined with parentheses ().
+- Example: coordinates = (10, 20)
+- Tuples are faster than lists and used for data that should not change.
+- Tuple unpacking: x, y = (10, 20)
+
+
+SETS:
+- Sets are unordered, unindexed, and do not allow duplicates. Defined with curly braces {}.
+- Example: colors = {"red", "green", "blue"}
+- Methods: .add(), .remove(), .union(), .intersection(), .difference()
+- Used to remove duplicates from a list: list(set(my_list))
+
+
+DICTIONARIES:
+- Dictionaries store data in key-value pairs. Defined with curly braces {}.
+- Example: student = {"name": "Riwaj", "age": 21, "grade": "A"}
+- Accessing values: student["name"] or student.get("name")
+- Methods: .keys(), .values(), .items(), .update(), .pop()
+- Looping: for key, value in student.items(): print(key, value)
+
+
+EXCEPTION_HANDLING:
+- try block: code that might cause an error
+- except block: handles the error if it occurs
+- else block: runs if no error occurred
+- finally block: always runs regardless of error
+- Common exceptions: ValueError, TypeError, ZeroDivisionError, FileNotFoundError, KeyError, IndexError, NameError
+- Raising exceptions: raise ValueError("Custom message")
+- Syntax:
+  try:
+      risky_code()
+  except ValueError as e:
+      print(f"Error: {e}")
+  finally:
+      print("Done")
+
+
+OOP_CLASSES_AND_OBJECTS:
+- A class is a blueprint for creating objects.
+- Syntax: class ClassName:
+- __init__: constructor method, runs when object is created. def __init__(self, params):
+- self: refers to the current object instance
+- Creating an object: obj = ClassName(arguments)
+- Instance attributes: stored in self. Example: self.name = name
+- Methods: functions inside a class
+- Encapsulation: bundling data and methods together in a class
+
+
+INHERITANCE:
+- Inheritance allows a child class to inherit attributes and methods from a parent class.
+- Syntax: class ChildClass(ParentClass):
+- super(): calls the parent class constructor. super().__init__()
+- Method overriding: child class can redefine a parent method
+- isinstance(): checks if object is instance of a class
+- Types: single inheritance (one parent), multiple inheritance (multiple parents)
+
+
+SCOPE:
+- Local scope: variables defined inside a function, only accessible there
+- Global scope: variables defined outside all functions, accessible everywhere
+- global keyword: allows modifying a global variable inside a function
+- NameError occurs when trying to access a variable outside its scope
+
+
+MODULES:
+- A module is a Python file containing functions, classes, and variables.
+- Importing: import module_name or from module_name import function_name
+- Built-in modules: math, random, datetime, os, sys
+- math module: math.sqrt(), math.pi, math.ceil(), math.floor()
+- random module: random.random(), random.randint(), random.choice(), random.seed()
+- datetime module: datetime.datetime.now(), datetime.timedelta(days=5)
+- Creating custom modules: save a .py file and import it by filename
+
+
+INTROSPECTION:
+- Code introspection means examining objects to know their type, attributes, and methods at runtime.
+- type(): returns the type of an object
+- dir(): returns list of attributes and methods
+- help(): returns documentation
+- isinstance(): checks if object is of a given type
+- hasattr(): checks if object has an attribute
+
+
+CLOUD_COMPUTING_AND_PYTHON:
+- Python is widely used in cloud computing for automation, scripting, and building cloud applications.
+- Task-specific Python libraries allow building specialized applications quickly.
+- Python's simplicity makes it ideal for cloud-based development.
+- Examples of cloud use cases: web APIs, serverless functions, data pipelines, AI models.
+
+
+================================================================
+SECTION 7: CLASS LOGISTICS
+================================================================
+
+
+CLASS_SCHEDULE:
+- Classes are held every Sunday and Wednesday at 7:00 AM.
+- Location: Kings College, Room 501.
+- Class format: On-Campus and Online (hybrid).
+
+
+WEEKLY_ASSIGNMENT_SUMMARY:
+- Week 1: Discussion (Python and Cloud Computing) — due Sunday midnight
+- Week 2: Assignment (Variables, Data Types, Numbers screenshots) — due Sunday midnight
+- Week 3: Assignment (Casting, Strings, Booleans, Operators screenshots + 5 coding questions) — due Sunday midnight
+- Week 4: Assignment (Lists, Tuples screenshots + 5 coding questions) — due Sunday midnight
+- Week 5: Discussion (Sets, Dictionaries, Arrays screenshots + 4 OOP coding questions) — due Sunday midnight
+- Week 6: Assignment (OOP program + 4 coding questions with modules) — due Sunday midnight
+- Week 7: Assessment (Full program using all CLOs) — due Sunday midnight
+- Week 8: Presentation (Present Week 7 Assessment in class)
+
+
+TOTAL_POINTS: 1000 points
+PASSING: Refer to Westcliff University grading policy.
+
+
+================================================================
+SECTION 8: CHATBOT RULES (SYSTEM SCOPE)
+================================================================
+
+
+SCOPE_RULE:
+This chatbot is exclusively designed for PRG 200 Programming in the Cloud at Westcliff University taught by Professor Pandey at Kings College. It will only answer questions related to:
+- Course content, topics, and concepts covered in PRG 200
+- Assignment questions, requirements, and deadlines
+- Python programming concepts taught in this course (Weeks 1-8)
+- Class schedule, grading, and course policies
+- W3Schools Python topics covered in the syllabus
+
+
+This chatbot will NOT answer questions about:
+- Topics not covered in PRG 200 (e.g. JavaScript, Java, C++, web development frameworks)
+- Personal questions unrelated to the course
+- Other courses or subjects
+- Anything outside the scope of PRG 200
+
+
+================================================================
+END OF KNOWLEDGE BASE
+================================================================
